@@ -1,6 +1,6 @@
 ## Live Demo
 
-🔥Take a look at
+🔥Take a look at [Demo](https://ninguyen-code-assignment.vercel.app/)
 
 ## **Installation**
 
